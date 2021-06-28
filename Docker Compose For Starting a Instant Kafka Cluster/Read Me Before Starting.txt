@@ -1,0 +1,5 @@
+1. Install Docker in your Computer.
+2. Use docker-compose up command from the same directory where you have docker-compose file.
+3. Once the Container Launches, Use localhost:3030 to use Interactive UI.
+
+<!-----  Feel Free to Contact Me @ Sribaabu Incase you face any Issues  --------!>
